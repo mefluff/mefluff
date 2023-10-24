@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @mefluff
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Web Development
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Krishiv+Gupta...;Nice+to+meet+you!&center=true&size=30"></a>
+</h1>
 
-<!---
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
-mefluff/mefluff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Cozy Life ❤️
+
+<p align="left">
+  <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="Fire.gif" />
+  Hi, I'm Krishiv Gupta, Research Assistant & Software Developer from India
+  <br>
+  <br>
+  🔭 I'm currently studying for computer science
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning Full Web Development
+  <br>
+  😄 Pronouns: Coder, Leader and Kind Hearted
+  <br>
+  💬 Ask me about anything, I am happy to help
+  <br>
+</p>
